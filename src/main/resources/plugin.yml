@@ -1,0 +1,9 @@
+name: AttributeSwapFolia
+version: '${project.version}'
+main: dev.vesly.attributeswapfolia.AttributeSwapFolia
+api-version: '1.21.11'
+folia-supported: true
+load: POSTWORLD
+author: Veslydev
+description: Enables Paper attribute swapping on Paper, Folia and Canvas.
+website: https://github.com/Veslydev/attributeswap-folia
